@@ -18,7 +18,7 @@
 "Add custom key" => "Add custom key",
 "Translations" => "Translations",
 "Scan translations" => "Scan translations",
-"Publish translations" => "Publish translations sofa",
+"Publish translations" => "Publish translations",
 "Unpublished items" => "Unpublished items",
 "Are you sure you want to change all system translations as this" => "Are you sure you want to change all system translations as this",
 "Key" => "Key",
