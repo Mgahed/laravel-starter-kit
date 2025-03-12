@@ -1,0 +1,17 @@
+<?php return [
+"Success" => "Success",
+"Error" => "Error",
+"Profile" => "Profile",
+"Mode" => "Mode",
+"Language" => "Language",
+"English" => "English",
+"Arabic" => "Arabic",
+"Logout" => "Logout",
+"Dashboard" => "Dashboard",
+"Settings" => "Settings",
+"Translations" => "Translations",
+"Are you sure you want to log out" => "Are you sure you want to log out",
+"You will be logged out of the system and will need to log in again to access your account" => "You will be logged out of the system and will need to log in again to access your account",
+"Yes log out" => "Yes log out",
+"Cancel" => "Cancel",
+];

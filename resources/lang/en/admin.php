@@ -1,0 +1,33 @@
+<?php return [
+"settings" => [
+"translations" => [
+"Search" => "Search",
+"Find in" => "Find in",
+"Translation key" => "Translation key",
+"Translation" => "Translation",
+"Contain" => "Contain",
+"Equal to" => "Equal to",
+"Start with" => "Start with",
+"End with" => "End with",
+"Site" => "Site",
+"Please select" => "Please select",
+"Published" => "Published",
+"All" => "All",
+"No" => "No",
+"Yes" => "Yes",
+"Add custom key" => "Add custom key",
+"Translations" => "Translations",
+"Scan translations" => "Scan translations",
+"Publish translations" => "Publish translations sofa",
+"Unpublished items" => "Unpublished items",
+"Are you sure you want to change all system translations as this" => "Are you sure you want to change all system translations as this",
+"Key" => "Key",
+"Scanned" => "Scanned",
+"Translated" => "Translated",
+],
+],
+"Record not found" => "Record not found",
+"translations" => [
+"New key added successfully" => "New key added successfully",
+],
+];

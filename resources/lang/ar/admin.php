@@ -1,0 +1,33 @@
+<?php return [
+"settings" => [
+"translations" => [
+"Search" => "يبحث",
+"Find in" => "تجد في",
+"Translation key" => "مفتاح الترجمة",
+"Translation" => "ترجمة",
+"Contain" => "يحتوي",
+"Equal to" => "يساوي",
+"Start with" => "ابدأ مع",
+"End with" => "تنتهي",
+"Site" => "موقع",
+"Please select" => "الرجاء تحديد",
+"Published" => "المنشورة",
+"All" => "الجميع",
+"No" => "لا",
+"Yes" => "نعم",
+"Add custom key" => "أضف مفتاح مخصص",
+"Translations" => "الترجمات",
+"Scan translations" => "مسح الترجمات",
+"Publish translations" => "نشر الترجمات",
+"Unpublished items" => "عناصر غير منشورة",
+"Are you sure you want to change all system translations as this" => "هل أنت متأكد أنك تريد تغيير جميع ترجمات النظام مثل هذا",
+"Key" => "مفتاح",
+"Scanned" => "مسح ضوئي",
+"Translated" => "ترجم",
+],
+],
+"Record not found" => "سجل لم يتم العثور عليه",
+"translations" => [
+"New key added successfully" => "تمت إضافة مفتاح جديد بنجاح",
+],
+];

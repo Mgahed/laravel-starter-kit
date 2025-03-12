@@ -1,0 +1,17 @@
+<?php return [
+"Success" => "Success",
+"Error" => "Error",
+"Profile" => "حساب تعريفي",
+"Mode" => "وضع",
+"Language" => "لغة",
+"English" => "إنجليزي",
+"Arabic" => "عربي",
+"Logout" => "تسجيل الخروج",
+"Dashboard" => "لوحة القيادة",
+"Settings" => "إعدادات",
+"Translations" => "الترجمات",
+"Are you sure you want to log out" => "هل أنت متأكد أنك تريد تسجيل الخروج",
+"You will be logged out of the system and will need to log in again to access your account" => "سيتم تسجيل الخروج من النظام وستحتاج إلى تسجيل الدخول مرة أخرى للوصول إلى حسابك",
+"Yes log out" => "نعم تسجيل الخروج",
+"Cancel" => "يلغي",
+];
