@@ -13,7 +13,7 @@ kit supports authentication and (view, edit, delete) profile using Saul theme. A
 ## Installation
 
 ```bash
-composer laravel new --using=mgahed/laravel-starter-kit
+laravel new --using=mgahed/laravel-starter-kit
 ```
 
 ## Publishing
