@@ -68,3 +68,8 @@ php artisan db:seed --class=Mgahed\LaravelStarter\Database\Seeders\MgahedStarter
 ## Supported Links
 
 - [Saul Theme](https://keenthemes.com/products/saul-html-free)
+
+### Support me by clicking the button below
+<div>
+    <a href="https://ko-fi.com/mgahed" target="_blank"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01c01ea9191809398c_support_me_on_kofi_blue.png" style="width: 250px;max-width: 100%;"></a>
+</div>
